@@ -1,0 +1,9 @@
+﻿  files.cpp
+  LAba2(1).cpp
+  todo.cpp
+C:\Users\roman\source\repos\LAba2(1)\todo.cpp(66,27): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\roman\source\repos\LAba2(1)\todo.cpp(69,35): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\roman\source\repos\LAba2(1)\todo.cpp(159,31): warning C4244: инициализация: преобразование "const double" в "int", возможна потеря данных
+C:\Users\roman\source\repos\LAba2(1)\todo.cpp(164,27): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  LAba2(1).vcxproj -> C:\Users\roman\source\repos\LAba2(1)\x64\Debug\LAba2(1).exe
