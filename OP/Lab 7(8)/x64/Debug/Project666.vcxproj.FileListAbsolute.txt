@@ -1,0 +1,5 @@
+C:\Users\roman\source\repos\Project666\x64\Debug\Project666.vcxproj.AssemblyReference.cache
+C:\Users\roman\source\repos\Project666\x64\Debug\Project666.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\roman\source\repos\Project666\x64\Debug\Project666.MyForm.resources
+C:\Users\roman\source\repos\Project666\x64\Debug\Project666.vcxproj.GenerateResource.cache
+C:\Users\roman\source\repos\Project666\x64\Debug\LABOR7(8).exe
